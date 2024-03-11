@@ -1,2 +1,3 @@
 # upgraded-guide-su
-Powerful JavaScript library for calculating sums and totals. With its flexible API and extensive documentation,  provides everything you need to compute accurate sums
+
+Powerful JavaScript library for calculating sums and totals. With its flexible API and extensive documentation, SumMachine provides everything you need to compute accurate sums and perform mathematical operations with confidence. Whether you're working with large datasets, real-time inputs, or complex numerical calculations, SumMachine streamlines the process of aggregating numeric values, enabling you to analyze and interpret your data with ease.
